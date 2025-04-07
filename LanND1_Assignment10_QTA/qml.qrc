@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Language.qml</file>
+        <file>HomeItem.qml</file>
+        <file>ItemFunc.qml</file>
+        <file>ListItem.qml</file>
+        <file>image/imageItem/01_Start.png</file>
+        <file>image/imageItem/01_Start_K.png</file>
+        <file>image/imageItem/02_Navigation.png</file>
+        <file>image/imageItem/02_Navigation_K.png</file>
+        <file>image/imageItem/03_UVO.png</file>
+        <file>image/imageItem/03_UVO_K.png</file>
+        <file>image/imageItem/04_Driver Assistance.png</file>
+        <file>image/imageItem/04_Driver Assistance_K.png</file>
+        <file>image/imageItem/05_Data Services.png</file>
+        <file>image/imageItem/05_Data Services_K.png</file>
+        <file>image/imageItem/06_Media.png</file>
+        <file>image/imageItem/06_Media_K.png</file>
+        <file>image/imageItem/07_Radio.png</file>
+        <file>image/imageItem/07_Radio_K.png</file>
+        <file>image/imageItem/08_Phone.png</file>
+        <file>image/imageItem/08_Phone_K.png</file>
+        <file>image/imageItem/09_Setting.png</file>
+        <file>image/imageItem/09_Setting_K.png</file>
+        <file>image/imageItem/10_Other.png</file>
+        <file>image/imageItem/10_Other_K.png</file>
+        <file>image/imageItem/11_Reference.png</file>
+        <file>image/imageItem/11_Reference_K.png</file>
+        <file>image/03_DMB.png</file>
+        <file>image/12_EV.png</file>
+        <file>image/btn_top_w.png</file>
+        <file>image/carImagePc.jpg</file>
+        <file>image/Connectivitiy_white.png</file>
+        <file>image/lang.png</file>
+        <file>image/lang_active.png</file>
+        <file>image/Logo_footer_K.png</file>
+        <file>image/Logo_K.png</file>
+        <file>image/menu.png</file>
+        <file>image/menu_close.png</file>
+        <file>image/menu_K_02.png</file>
+        <file>image/menu_K_04.png</file>
+        <file>image/search.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>myapp_kr.qm</file>
+        <file>myapp_fr.qm</file>
+        <file>myapp_es.qm</file>
+        <file>myapp_en.qm</file>
+        <file>myapp_kr.ts</file>
+        <file>myapp_fr.ts</file>
+        <file>myapp_es.ts</file>
+        <file>myapp_en.ts</file>
+    </qresource>
+</RCC>
